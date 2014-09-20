@@ -7,5 +7,6 @@ namespace Apress.Recipes.WebApi
         [Required]
         public int Id { get; set; }
         public string Name { get; set; }
+
     }
 }
